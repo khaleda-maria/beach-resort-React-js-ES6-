@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is about a resort where there are rooms with multiple features and it is dynamic! .We can see a single room feachers along with its images when we click a particular room.also we can filter rooms by their type,capacity,price,size etc..
+
 
 ## Available Scripts
 
